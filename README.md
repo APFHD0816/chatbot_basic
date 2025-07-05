@@ -3,7 +3,7 @@
 
 1. 가상환경을 생성한다.
 ```powershell
-python -m venv myvvenv
+python -m venv myvenv
 ```
 
 2. 가상환경을 활성화한다.
@@ -29,6 +29,7 @@ git init
 ```powershell
 pip install streamlit
 pip install dotenv
+pip install openai
 ```
 
 9. requirements.txt 파일을 만든다.
